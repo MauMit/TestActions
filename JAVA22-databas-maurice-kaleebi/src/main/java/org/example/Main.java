@@ -54,7 +54,7 @@ public class Main {
     }
 
 
-        static ArrayList<Integer> getReceiverAccountsIDsArr() {
+    static ArrayList<Integer> getReceiverAccountsIDsArr() {
         return receiverAccountsIDsArr;
     }
 
